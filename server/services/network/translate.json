@@ -1,0 +1,330 @@
+{
+  "0": {
+    "english": "Akarna_Dhanurasana",
+    "russian": "Акарна_Дханурасана"
+  },
+  "1": {
+    "english": "Bharadvajas_Twist_pose_or_Bharadvajasana_I_",
+    "russian": "Бхарадваджас_вист-поза_и_бхарадваджасана"
+  },
+  "2": {
+    "english": "Boat_Pose_or_Paripurna_Navasana_",
+    "russian": "Лодочная_поза_или_Парипурна_навасана"
+  },
+  "3": {
+    "english": "Bound_Angle_Pose_or_Baddha_Konasana_",
+    "russian": "Поза_боуна_глаза Или_баддха_конасана"
+  },
+  "4": {
+    "english": "Bow_Pose_or_Dhanurasana_",
+    "russian": "Поза_боуна Или_дханурасана"
+  },
+  "5": {
+    "english": "Bridge_Pose_or_Setu_Bandha_Sarvangasana_",
+    "russian": "Мост_позиция_и_сету_бандха_сарвангасана"
+  },
+  "6": {
+    "english": "Camel_Pose_or_Ustrasana_",
+    "russian": "Верблюжья_позиция_и_устрасана"
+  },
+  "7": {
+    "english": "Cat_Cow_Pose_or_Marjaryasana_",
+    "russian": "Поза_кошки Или_марья_саны"
+  },
+  "8": {
+    "english": "Chair_Pose_or_Utkatasana_",
+    "russian": "Поза_кошки Или_уткатасаны"
+  },
+  "9": {
+    "english": "Child_Pose_or_Balasana_",
+    "russian": "Поза_кошки Или_баласаны"
+  },
+  "10": {
+    "english": "Cobra_Pose_or_Bhujangasana_",
+    "russian": "Поза_кобры или Бхуджангасаны"
+  },
+  "11": {
+    "english": "Cockerel_Pose",
+    "russian": "Поза_петушка"
+  },
+  "12": {
+    "english": "Corpse_Pose_or_Savasana_",
+    "russian": "Поза_трупа или Савасаны"
+  },
+  "13": {
+    "english": "Cow_Face_Pose_or_Gomukhasana_",
+    "russian": "Поза с лицом коровы или Гомукхасана"
+  },
+  "14": {
+    "english": "Crane_(Crow)_Pose_or_Bakasana_",
+    "russian": "Кран(ворона) или бакасана_"
+  },
+  "15": {
+    "english": "Dolphin_Plank_Pose_or_Makara_Adho_Mukha_Svanasana_",
+    "russian": "Поза_дольфина_планка_и_макара_адхо_муха_сванасана"
+  },
+  "16": {
+    "english": "Dolphin_Pose_or_Ardha_Pincha_Mayurasana_",
+    "russian": "Поза_дольфина_и_ардха_пинча_маюрасана"
+  },
+  "17": {
+    "english": "Downward-Facing_Dog_pose_or_Adho_Mukha_Svanasana_",
+    "russian": "Обращенная_вниз собачья поза или Адхо_муха_сванасана"
+  },
+  "18": {
+    "english": "Eagle_Pose_or_Garudasana_",
+    "russian": "Поза орла или Гарудасана"
+  },
+  "19": {
+    "english": "Eight-Angle_Pose_or_Astavakrasana_",
+    "russian": "Восьмиугольная поза или Аставакрасана"
+  },
+  "20": {
+    "english": "Extended_Puppy_Pose_or_Uttana_Shishosana_",
+    "russian": "Расширенная поза Пуппи или Уттана Шишосана"
+  },
+  "21": {
+    "english": "Extended_Revolved_Side_Angle_Pose_or_Utthita_Parsvakonasana_",
+    "russian": "расширенный_перевертывающий_ся_позицию_англа_и_утхита_парсваконасана"
+  },
+  "22": {
+    "english": "Extended_Revolved_Triangle_Pose_or_Utthita_Trikonasana_",
+    "russian": "Расширенная_вращенная_треугольная_поза_или_уттхита_триконасана"
+  },
+  "23": {
+    "english": "Feathered_Peacock_Pose_or_Pincha_Mayurasana_",
+    "russian": "Перьевая поза павлина или Пинча Маюрасана"
+  },
+  "24": {
+    "english": "Firefly_Pose_or_Tittibhasana_",
+    "russian": "Поза светлячка или Титтибхасана"
+  },
+  "25": {
+    "english": "Fish_Pose_or_Matsyasana_",
+    "russian": "Поза рыбы или Матсйасана"
+  },
+  "26": {
+    "english": "Four-Limbed_Staff_Pose_or_Chaturanga_Dandasana_",
+    "russian": "Поза четырехконечного посоха или чатуранга дандасана"
+  },
+  "27": {
+    "english": "Frog_Pose_or_Bhekasana",
+    "russian": "Поза лягушки или Бхекасана"
+  },
+  "28": {
+    "english": "Garland_Pose_or_Malasana_",
+    "russian": "Гирляндовая поза или Маласана"
+  },
+  "29": {
+    "english": "Gate_Pose_or_Parighasana_",
+    "russian": "Воротная поза или Паригхасана"
+  },
+  "30": {
+    "english": "Half_Lord_of_the_Fishes_Pose_or_Ardha_Matsyendrasana_",
+    "russian": "Полу-царь_рыбы_поза_или_ардха_матсьендрасана"
+  },
+  "31": {
+    "english": "Half_Moon_Pose_or_Ardha_Chandrasana_",
+    "russian": "Поза полумесяца или Ардха Чандраасана"
+  },
+  "32": {
+    "english": "Handstand_pose_or_Adho_Mukha_Vrksasana_",
+    "russian": "Поза на руках или Адхо_муха_врксасана"
+  },
+  "33": {
+    "english": "Happy_Baby_Pose_or_Ananda_Balasana_",
+    "russian": "Поза счастливого младенца или Ананда Баласана"
+  },
+  "34": {
+    "english": "Head-to-Knee_Forward_Bend_pose_or_Janu_Sirsasana_",
+    "russian": "Поза голова к колену впереди или Жану Сирсасана"
+  },
+  "35": {
+    "english": "Heron_Pose_or_Krounchasana_",
+    "russian": "Поза цапли или Краунчасана"
+  },
+  "36": {
+    "english": "Intense_Side_Stretch_Pose_or_Parsvottanasana_",
+    "russian": "Интенсивная поза растяжки боковой или Паршвоттанасана"
+  },
+  "37": {
+    "english": "Legs-Up-the-Wall_Pose_or_Viparita_Karani_",
+    "russian": "Поза ноги вверх по стене или Випарита Карани"
+  },
+  "38": {
+    "english": "Locust_Pose_or_Salabhasana_",
+    "russian": "Поза саранчи или Салабхасана"
+  },
+  "39": {
+    "english": "Lord_of_the_Dance_Pose_or_Natarajasana_",
+    "russian": "Поза Лорда Танца или Натараджасана"
+  },
+  "40": {
+    "english": "Low_Lunge_pose_or_Anjaneyasana_",
+    "russian": "Поза низкой вылазки или Анджанейасана"
+  },
+  "41": {
+    "english": "Noose_Pose_or_Pasasana_",
+    "russian": "Поза петли или Пасасана"
+  },
+  "42": {
+    "english": "Peacock_Pose_or_Mayurasana_",
+    "russian": "Поза павлина или Майурасана"
+  },
+  "43": {
+    "english": "Pigeon_Pose_or_Kapotasana_",
+    "russian": "Поза голубя или Капотасана"
+  },
+  "44": {
+    "english": "Plank_Pose_or_Kumbhakasana_",
+    "russian": "Поза планки или Кумбхакасана"
+  },
+  "45": {
+    "english": "Plow_Pose_or_Halasana_",
+    "russian": "Поза плуга или Халасана"
+  },
+  "46": {
+    "english": "Pose_Dedicated_to_the_Sage_Koundinya_or_Eka_Pada_Koundinyanasana_I_and_II",
+    "russian": "Поза, посвященная мудрецу Каундинья или Эка Пада Каундиньянасана I и II"
+  },
+  "47": {
+    "english": "Rajakapotasana",
+    "russian": "Раджакапотасана"
+  },
+  "48": {
+    "english": "Reclining_Hand-to-Big-Toe_Pose_or_Supta_Padangusthasana_",
+    "russian": "Поза лежа с рукой к большому пальцу или Супта Падангустхасана"
+  },
+  "49": {
+    "english": "Revolved_Head-to-Knee_Pose_or_Parivrtta_Janu_Sirsasana_",
+    "russian": "Поза повернутая голова к колену или Паривритта Джану Сирсасана"
+  },
+  "50": {
+    "english": "Scale_Pose_or_Tolasana_",
+    "russian": "Поза весов или Толасана"
+  },
+  "51": {
+    "english": "Scorpion_pose_or_vrischikasana",
+    "russian": "Поза скорпиона или вришчикасана"
+  },
+  "52": {
+    "english": "Seated_Forward_Bend_pose_or_Paschimottanasana_",
+    "russian": "Поза сидя, наклон вперед или Пашчимоттанасана"
+  },
+  "53": {
+    "english": "Shoulder-Pressing_Pose_or_Bhujapidasana_",
+    "russian": "Поза для нажима на плечи или Бхуджапидасана"
+  },
+  "54": {
+    "english": "Side-Reclining_Leg_Lift_pose_or_Anantasana_",
+    "russian": "Поза боковой лежа, поднятие ноги или Анантасана"
+  },
+  "55": {
+    "english": "Side_Crane_(Crow)_Pose_or_Parsva_Bakasana_",
+    "russian": "Поза боковой журавль (ворона) или Парсва Бакасана"
+  },
+  "56": {
+    "english": "Side_Plank_Pose_or_Vasisthasana_",
+    "russian": "Поза боковой планки или Васиштасана"
+  },
+  "57": {
+    "english": "Sitting pose 1 (normal)",
+    "russian": "Поза сидя 1 (нормально)"
+  },
+  "58": {
+    "english": "Split pose",
+    "russian": "Поза раздвоения"
+  },
+  "59": {
+    "english": "Staff_Pose_or_Dandasana_",
+    "russian": "Поза персонала или Дандасана"
+  },
+  "60": {
+    "english": "Standing_big_toe_hold_pose_or_Utthita_Padangusthasana",
+    "russian": "Поза стоя с захватом большого пальца ноги или Уттхита Падангустхасана"
+  },
+  "61": {
+    "english": "Standing_Forward_Bend_pose_or_Uttanasana_",
+    "russian": "Поза стоя, наклон вперед или Уттанасана"
+  },
+  "62": {
+    "english": "Standing_Split_pose_or_Urdhva_Prasarita_Eka_Padasana_",
+    "russian": "Поза стоя, разделенная или Урдхва Прасарита Эка Падасана"
+  },
+  "63": {
+    "english": "Supported_Headstand_pose_or_Salamba_Sirsasana_",
+    "russian": "Поддерживаемая поза на голове или Саламба Сирсасана"
+  },
+  "64": {
+    "english": "Supported_Shoulderstand_pose_or_Salamba_Sarvangasana_",
+    "russian": "Поза поддерживаемой стойки на плечах или Саламба Сарвангасана"
+  },
+  "65": {
+    "english": "Supta_Baddha_Konasana_",
+    "russian": "Поза лежа, связанная с конусом или Супта Бадда Конасана"
+  },
+  "66": {
+    "english": "Supta_Virasana_Vajrasana",
+    "russian": "Поза лежа, вира асана"
+  },
+  "67": {
+    "english": "Tortoise_Pose",
+    "russian": "Поза черепахи"
+  },
+  "68": {
+    "english": "Tree_Pose_or_Vrksasana_",
+    "russian": "Поза дерева или Врксасана"
+  },
+  "69": {
+    "english": "Upward_Bow_(Wheel)_Pose_or_Urdhva_Dhanurasana_",
+    "russian": "Поза вверх лука (колеса) или Урдхва Дханурасана"
+  },
+  "70": {
+    "english": "Upward_Facing_Two-Foot_Staff_Pose_or_Dwi_Pada_Viparita_Dandasana_",
+    "russian": "Поза лицом вверх с двумя ногами или Дви Пада Випарита Дандасана"
+  },
+  "71": {
+    "english": "Upward_Plank_Pose_or_Purvottanasana_",
+    "russian": "Поза лицом вверх или Пурвоттанасана"
+  },
+  "72": {
+    "english": "viparita_virabhadrasana_or_reverse_warrior_pose",
+    "russian": "випарита_вирабхадрасана_или_поза_обратного_воина"
+  },
+  "73": {
+    "english": "Virasana_or_Vajrasana",
+    "russian": "Вирасана_или_Ваджрасана"
+  },
+  "74": {
+    "english": "Warrior_III_Pose_or_Virabhadrasana_III_",
+    "russian": "Поза воина III или Вирабхадрасана III"
+  },
+  "75": {
+    "english": "Warrior_II_Pose_or_Virabhadrasana_II_",
+    "russian": "Поза воина II или Вирабхадрасана II"
+  },
+  "76": {
+    "english": "Warrior_I_Pose_or_Virabhadrasana_I_",
+    "russian": "Поза воина I или Вирабхадрасана I"
+  },
+  "77": {
+    "english": "Wide-Angle_Seated_Forward_Bend_pose_or_Upavistha_Konasana_",
+    "russian": "Поза широкого угла сидя, наклон вперед или Упавишта Конасана"
+  },
+  "78": {
+    "english": "Wide-Legged_Forward_Bend_pose_or_Prasarita_Padottanasana_",
+    "russian": "Поза широкой ноги, наклон вперед или Прасарита Падоттанасана"
+  },
+  "79": {
+    "english": "Wild_Thing_pose_or_Camatkarasana_",
+    "russian": "Поза дикой вещи или Чаматкарасана"
+  },
+  "80": {
+    "english": "Wind_Relieving_pose_or_Pawanmuktasana",
+    "russian": "Поза снятия ветра или Паванмуктасана"
+  },
+  "81": {
+    "english": "Yogic_sleep_pose",
+    "russian": "Поза йогического сна"
+  }
+}
