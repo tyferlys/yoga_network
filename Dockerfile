@@ -6,6 +6,7 @@ WORKDIR /yoga-server
 COPY requirements.txt .
 
 RUN pip install -r requirements.txt
+RUN apt-get install libgl1-mesa-glx
 RUN apt-get update
 
 COPY . .
